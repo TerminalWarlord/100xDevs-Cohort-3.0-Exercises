@@ -3,7 +3,7 @@ node_modules/
 
 # Environment variables
 *.env
-
+dist/
 # Other potential ignores
 .DS_Store
 *.log
